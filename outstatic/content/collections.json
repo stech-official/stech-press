@@ -10,11 +10,5 @@
     "slug": "posts",
     "path": "outstatic/content/posts",
     "parent": null
-  },
-  {
-    "title": "Projects",
-    "slug": "projects",
-    "path": "outstatic/content/projects",
-    "parent": null
   }
 ]
