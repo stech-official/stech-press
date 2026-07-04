@@ -19,12 +19,20 @@ const Header = async () => {
   return (
     <header className="py-4 fixed bottom-0 border-t md:bottom-auto md:top-0 w-full z-20 border-b bg-background">
       <nav className="max-w-6xl mx-auto w-full layout flex items-center justify-between">
+        {/* ロゴとブランドネームのエリア */}
         <Link
           href="/"
-          className="hover:text-slate-900 dark:hover:text-blue-200 px-5 underline-offset-2 font-semibold transition-all hover:scale-105"
+          className="hover:text-slate-900 dark:hover:text-blue-200 px-5 underline-offset-2 font-semibold transition-all hover:scale-105 flex items-center space-x-2"
         >
-          Andre Vitorio
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img 
+            src="https://stechnology.jp/logo.png" 
+            alt="S-TECH Logo" 
+            className="h-6 w-auto object-contain"
+          />
+          <span className="text-base md:text-lg tracking-tight">S-TECH Press</span>
         </Link>
+
         <ul className="hidden md:flex items-center justify-between space-x-3 text-xs md:space-x-4 md:text-base">
           {pages.map(({ title, slug }) => (
             <li key={slug}>
