@@ -1,13 +1,13 @@
 ---
-title: "Home"
-status: "published"
+title: Homeeeeee
+status: published
 author:
-  name: "Andre Vitorio"
+  name: Andre Vitorio
   picture: ""
-slug: "home"
-description: "This is my blog."
+slug: home
+description: This is my blog.
 coverImage: ""
-publishedAt: "2022-03-17T05:35:07.322Z"
+publishedAt: 2022-03-17T05:35:07.322Z
 ---
 
 ## Hello!
