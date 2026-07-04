@@ -8,32 +8,31 @@ import { Metadata } from 'next'
 import 'katex/dist/katex.min.css'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://outstatic.com'),
+  metadataBase: new URL('https://press.stechnology.jp'),
   title: {
-    default: 'Andre Vitorio - Design. Develop. Deploy.',
-    template: '%s | Andre Vitorio'
+    default: 'S-TECH Press',
+    template: '%s | S-TECH Press'
   },
   description:
-    'Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.',
+    'S-TECH Pressは、S-TECH公式のお知らせを配信しているサイトです。',
   openGraph: {
-    title: 'Andre Vitorio - Design. Develop. Deploy.',
+    title: 'S-TECH Press',
     description:
-      'Design engineer from Maceió, Brazil. I write about web development, software engineering, and more.',
+      'S-TECH Pressは、S-TECH公式のお知らせを配信しているサイトです。',
     url: absoluteUrl('/'),
-    siteName: 'AndreVitorio.com',
+    siteName: 'S-TECH Press',
     images: [
       {
-        url: ogUrl('Andre Vitorio - Design. Develop. Deploy.'),
+        url: ogUrl('https://stechnology.jp/ogp.png'),
         width: 1200,
         height: 630
       }
     ],
-    locale: 'en_US',
+    locale: 'ja_JP',
     type: 'website'
   },
   icons: {
-    icon: [{ url: '/favicon/favicon-32x32.png' }],
-    apple: [{ url: '/favicon/apple-touch-icon.png' }]
+    icon: [{ url: '/favicon/favicon-32x32.png' }]
   }
 }
 
