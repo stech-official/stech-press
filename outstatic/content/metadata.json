@@ -1,6 +1,6 @@
 {
-  "commit": "e688ecaa3e4980d91a216c19e708edcf7718e0a1",
-  "generated": "2026-07-04T18:20:35.258Z",
+  "commit": "53daebaf56e2d13b9b2e47fd39ca63a4640484a9",
+  "generated": "2026-07-04T18:33:32.129Z",
   "metadata": [
     {
       "__outstatic": {
@@ -207,6 +207,24 @@
       "slug": "home",
       "status": "published",
       "title": "Homeeeeee"
+    },
+    {
+      "__outstatic": {
+        "commit": "53daebaf56e2d13b9b2e47fd39ca63a4640484a9",
+        "hash": "423157106",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "I'm Andre, a product developer and designer from Maceió, Brazil",
+      "publishedAt": "2023-12-28T18:49:02.348Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About M"
     }
   ]
 }
