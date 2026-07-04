@@ -48,8 +48,9 @@ async function getData() {
     .find({ collection: 'pages', slug: 'home' }, ['content'])
     .first()
 
-  // convert markdown to html
-  const content = await markdownToHtml(page.content)
+  // 【修正】page が存在しない場合の安全弁（Nullチェック）を追加
+  const rawContent = page?.content || '<h1>S-TECH Press</h1><p>公式配信システムへようこそ。</p>'
+  const content = await markdownToHtml(rawContent)
 
   // get all posts. Example of fetching a specific collection
   const allPosts = await db
@@ -69,7 +70,6 @@ async function getData() {
   const collections = await db
     .find(
       {
-        // $nor is an operator that means "not or"
         $nor: [{ collection: 'posts' }, { collection: 'pages' }],
         status: 'published'
       },
