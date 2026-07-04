@@ -1,6 +1,6 @@
 {
-  "commit": "53daebaf56e2d13b9b2e47fd39ca63a4640484a9",
-  "generated": "2026-07-04T18:33:32.129Z",
+  "commit": "215f252f8f88864507a0539f43b2e772f25377b3",
+  "generated": "2026-07-04T18:40:50.236Z",
   "metadata": [
     {
       "__outstatic": {
@@ -192,24 +192,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e688ecaa3e4980d91a216c19e708edcf7718e0a1",
-        "hash": "951363643",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": ""
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2022-03-17T05:35:07.322Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Homeeeeee"
-    },
-    {
-      "__outstatic": {
         "commit": "53daebaf56e2d13b9b2e47fd39ca63a4640484a9",
         "hash": "423157106",
         "path": "outstatic/content/pages/about.md"
@@ -225,6 +207,24 @@
       "slug": "about",
       "status": "published",
       "title": "About M"
+    },
+    {
+      "__outstatic": {
+        "commit": "215f252f8f88864507a0539f43b2e772f25377b3",
+        "hash": "2200268701",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "S-TECH",
+        "picture": "/images/------g3OT.png"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2026-07-04T15:00:00.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }

@@ -1,17 +1,17 @@
 ---
-title: Homeeeeee
+title: Home
 status: published
 author:
-  name: Andre Vitorio
-  picture: ""
+  name: S-TECH
+  picture: /images/------g3OT.png
 slug: home
 description: This is my blog.
 coverImage: ""
-publishedAt: 2022-03-17T05:35:07.322Z
+publishedAt: 2026-07-04T15:00:00.000Z
 ---
 
 ## Hello!
 
-# I'm Andre, nice to meet you.
+# Welcome to S-TECH Press!
 
-I'm a lead design engineer from Brazil 🇧🇷 with a focus on SaaS & Media businesses. Learn more [about me](/about), my [projects](/projects) or follow me on [𝕏](https://twitter.com/AndreVitorio).
+S-TECH Pressは、S-TECH公式のお知らせを配信するパブリッシングプラットフォームです。 「すべての人により良い利便性を届ける」をミッションに、日々開発・運用しているインフラや各種サービスの最新情報、活動記録をお届けします。 詳細については、\[S-TECH公式サイト\]([https://stechnology.jp](https://stechnology.jp)) をご覧ください。
