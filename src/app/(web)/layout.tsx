@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: 'S-TECH Press',
     images: [
       {
-        url: ogUrl('https://stechnology.jp/ogp.png'),
+        url: 'https://stechnology.jp/ogp.png', // ogUrl() を外して直接指定
         width: 1200,
         height: 630
       }
@@ -32,7 +32,8 @@ export const metadata: Metadata = {
     type: 'website'
   },
   icons: {
-    icon: [{ url: '/favicon/favicon-32x32.png' }]
+    icon: [{ url: 'https://stechnology.jp/favicon.ico' }],
+    apple: [{ url: 'https://stechnology.jp/favicon.ico' }] // Apple用も統一しておくと親切です
   }
 }
 
