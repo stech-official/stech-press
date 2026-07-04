@@ -1,6 +1,6 @@
 {
-  "commit": "cbf29bbff54e6f826c54b1816f120873ac8743ef",
-  "generated": "2026-07-04T19:04:39.539Z",
+  "commit": "18aeef47d0157ec662d38b730a126a3ea0cde4d3",
+  "generated": "2026-07-04T19:08:17.224Z",
   "metadata": [
     {
       "__outstatic": {
@@ -135,6 +135,22 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "18aeef47d0157ec662d38b730a126a3ea0cde4d3",
+        "hash": "3812073473",
+        "path": "outstatic/content/financial-report/r8-7yue-s-tech-shou-zhi-repoto.md"
+      },
+      "author": {
+        "name": "S-TECH",
+        "picture": "https://avatars.githubusercontent.com/u/268148195?v=4"
+      },
+      "collection": "financial-report",
+      "publishedAt": "2026-07-30T15:00:00.000Z",
+      "slug": "r8-7yue-s-tech-shou-zhi-repoto",
+      "status": "published",
+      "title": "【R8 7月】S-TECH 収支レポート"
     }
   ]
 }
