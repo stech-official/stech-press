@@ -6,6 +6,9 @@ const nextConfig = {
         pathname: '/api/og',
         search: '?*',
       },
+      {
+        pathname: '/images/**',
+      },
     ],
   },
 };
