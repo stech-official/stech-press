@@ -14,6 +14,6 @@ publishedAt: 2026-07-04T15:00:00.000Z
 
 # Welcome to S-TECH Press!
 
-S-TECH Pressは、S-TECH公式のお知らせを配信するパブリッシングプラットフォームです。
+S-TECH Pressは、S-TECH公式のお知らせを配信するサイトです。
 
 S-TECHについては、[公式サイト](https://stechnology.jp/) をご覧ください。
