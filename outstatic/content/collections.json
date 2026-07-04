@@ -10,5 +10,11 @@
     "slug": "posts",
     "path": "outstatic/content/posts",
     "parent": null
+  },
+  {
+    "title": "Financial Report",
+    "slug": "financial-report",
+    "path": "outstatic/content/financial-report",
+    "parent": null
   }
 ]
