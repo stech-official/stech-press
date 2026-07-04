@@ -10,7 +10,6 @@ coverImage: ""
 publishedAt: 2026-07-04T15:00:00.000Z
 ---
 
-## Hello!
 
 # Welcome to S-TECH Press!
 
