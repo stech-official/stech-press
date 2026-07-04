@@ -1,6 +1,6 @@
 {
-  "commit": "0c9918d945d6ac767957a8f56cdfc7aa41c05cea",
-  "generated": "2026-07-04T19:03:14.177Z",
+  "commit": "b63ab313bcaceb82cc01cae369e761b8127792c2",
+  "generated": "2026-07-04T19:03:50.633Z",
   "metadata": [
     {
       "__outstatic": {
@@ -189,24 +189,6 @@
         }
       ],
       "title": "Add a free CMS to your Next.js website with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "53daebaf56e2d13b9b2e47fd39ca63a4640484a9",
-        "hash": "423157106",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "I'm Andre, a product developer and designer from Maceió, Brazil",
-      "publishedAt": "2023-12-28T18:49:02.348Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About M"
     },
     {
       "__outstatic": {
