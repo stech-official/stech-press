@@ -10,7 +10,6 @@ coverImage: ""
 publishedAt: 2026-07-04T15:00:00.000Z
 ---
 
-
 # Welcome to S-TECH Press!
 
-S-TECH Pressは、S-TECH公式のお知らせを配信しているサイトです。
+S-TECH Pressは、[S-TECH](https://stechnology.jp/)公式のお知らせを配信しているサイトです。
