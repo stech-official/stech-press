@@ -1,0 +1,105 @@
+
+
+> outstatic-dev-blog@0.0.1 dev /Users/andre/Projects/web/outstatic/dev/apps/dev
+> next dev
+
+   [1m[38;2;173;127;168m▲ Next.js 15.3.3[39m[22m
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.68.100:3000
+   - Environments: .env.local
+
+ [32m[1m✓[22m[39m Starting...
+ [32m[1m✓[22m[39m Ready in 1738ms
+ [37m[1m○[22m[39m Compiling / ...
+ [32m[1m✓[22m[39m Compiled / in 1131ms (1278 modules)
+ GET / [32m200[39m in 1500ms
+ [37m[1m○[22m[39m Compiling /outstatic/[[...ost]] ...
+ [32m[1m✓[22m[39m Compiled /outstatic/[[...ost]] in 4s (5075 modules)
+ GET /outstatic [32m200[39m in 5361ms
+ [37m[1m○[22m[39m Compiling /api/outstatic/[[...ost]] ...
+ [32m[1m✓[22m[39m Compiled /api/outstatic/[[...ost]] in 726ms (5079 modules)
+ GET /api/outstatic/user [32m200[39m in 1119ms
+ GET /outstatic [32m200[39m in 548ms
+ GET /api/outstatic/user [32m200[39m in 7ms
+ GET /api/outstatic/signout [34m307[39m in 8ms
+ GET / [32m200[39m in 111ms
+ GET /api/outstatic/signout [34m307[39m in 3ms
+ GET / [32m200[39m in 57ms
+No token found in cookies
+ GET /outstatic [32m200[39m in 37ms
+ GET /api/outstatic/login [32m200[39m in 5ms
+Session validation error: Error: Session expired
+    at getLoginSession (../../packages/outstatic/dist/chunk-JDIFEPHW.mjs:137:10)
+    at async Outstatic (../../packages/outstatic/dist/index.mjs:30:18)
+    at async Page (src/app/(cms)/outstatic/[[...ost]]/page.tsx:8:18)
+[0m [90m 135 |[39m       }[0m
+[0m [90m 136 |[39m     }[0m
+[0m[31m[1m>[22m[39m[90m 137 |[39m     [36mthrow[39m [36mnew[39m [33mError[39m([33mSESSION_ERROR_MESSAGES[39m[33m.[39m[33mSESSION_EXPIRED[39m)[33m;[39m[0m
+[0m [90m     |[39m          [31m[1m^[22m[39m[0m
+[0m [90m 138 |[39m   } [36mcatch[39m (error) {[0m
+[0m [90m 139 |[39m     console[33m.[39merror([32m"Session validation error:"[39m[33m,[39m error)[33m;[39m[0m
+[0m [90m 140 |[39m     [36mreturn[39m [36mnull[39m[33m;[39m[0m
+ GET /outstatic [32m200[39m in 333ms
+Session validation error: Error: Session expired
+    at getLoginSession (../../packages/outstatic/dist/chunk-JDIFEPHW.mjs:137:10)
+    at async Outstatic (../../packages/outstatic/dist/index.mjs:30:18)
+    at async Page (src/app/(cms)/outstatic/[[...ost]]/page.tsx:8:18)
+[0m [90m 135 |[39m       }[0m
+[0m [90m 136 |[39m     }[0m
+[0m[31m[1m>[22m[39m[90m 137 |[39m     [36mthrow[39m [36mnew[39m [33mError[39m([33mSESSION_ERROR_MESSAGES[39m[33m.[39m[33mSESSION_EXPIRED[39m)[33m;[39m[0m
+[0m [90m     |[39m          [31m[1m^[22m[39m[0m
+[0m [90m 138 |[39m   } [36mcatch[39m (error) {[0m
+[0m [90m 139 |[39m     console[33m.[39merror([32m"Session validation error:"[39m[33m,[39m error)[33m;[39m[0m
+[0m [90m 140 |[39m     [36mreturn[39m [36mnull[39m[33m;[39m[0m
+ GET /outstatic [32m200[39m in 322ms
+No token found in cookies
+ GET /outstatic [32m200[39m in 31ms
+ GET /api/outstatic/login [32m200[39m in 7ms
+ GET /api/outstatic/callback?code=0318fb78316417cdb771 [34m307[39m in 1074ms
+ GET /outstatic [32m200[39m in 47ms
+ GET /api/outstatic/user [32m200[39m in 4ms
+ GET /outstatic/pages [32m200[39m in 16ms
+ GET /outstatic/pages/home [32m200[39m in 13ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/replicate-prediction-f8c021cay9rme0cs0v2bbs4xf4-YyMT.webp [32m200[39m in 304ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-UyNj.jpeg [32m200[39m in 309ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-Q5MT.jpeg [32m200[39m in 416ms
+ POST /api/outstatic/generate [32m200[39m in 1444ms
+ [37m[1m○[22m[39m Compiling /[...slug] ...
+ [32m[1m✓[22m[39m Compiled /[...slug] in 2.7s (5623 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json [33m404[39m in 3936ms
+ GET /outstatic/pages/home [32m200[39m in 478ms
+ GET /.well-known/appspecific/com.chrome.devtools.json [33m404[39m in 60ms
+ GET /api/outstatic/user [32m200[39m in 11ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/replicate-prediction-f8c021cay9rme0cs0v2bbs4xf4-YyMT.webp [32m200[39m in 150ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-UyNj.jpeg [32m200[39m in 151ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-Q5MT.jpeg [32m200[39m in 185ms
+ POST /api/outstatic/generate [32m200[39m in 974ms
+ GET /outstatic/pages/home [32m200[39m in 68ms
+ GET /.well-known/appspecific/com.chrome.devtools.json [33m404[39m in 53ms
+ GET /api/outstatic/user [32m200[39m in 8ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-Q5MT.jpeg [32m200[39m in 149ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-UyNj.jpeg [32m200[39m in 151ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/replicate-prediction-f8c021cay9rme0cs0v2bbs4xf4-YyMT.webp [32m200[39m in 152ms
+ POST /api/outstatic/generate [32m200[39m in 1448ms
+ POST /api/outstatic/generate [32m200[39m in 913ms
+ POST /api/outstatic/generate [32m200[39m in 1524ms
+ POST /api/outstatic/generate [32m200[39m in 1591ms
+ GET /outstatic/posts [32m200[39m in 28ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-UyNj.jpeg [32m200[39m in 150ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/replicate-prediction-f8c021cay9rme0cs0v2bbs4xf4-YyMT.webp [32m200[39m in 156ms
+ GET /api/outstatic/media/avitorio/basic-blog-2/main/public/images/1417109-Q5MT.jpeg [32m200[39m in 159ms
+ GET /outstatic/posts/new [32m200[39m in 13ms
+ [33m[1m⚠[22m[39m Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ [32m[1m✓[22m[39m Compiled in 1991ms (4727 modules)
+ GET /outstatic/posts/new [32m200[39m in 563ms
+ [37m[1m○[22m[39m Compiling /[...slug] ...
+ [32m[1m✓[22m[39m Compiled /[...slug] in 525ms (3177 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json [33m404[39m in 811ms
+ [32m[1m✓[22m[39m Compiled /api/outstatic/[[...ost]] in 332ms (3181 modules)
+ GET /api/outstatic/user [32m200[39m in 406ms
+ [32m[1m✓[22m[39m Compiled in 1243ms (5396 modules)
+ POST /api/outstatic/generate [32m200[39m in 646ms
+ GET /outstatic/projects [32m200[39m in 58ms
+ GET /outstatic/projects/flycream-travel [32m200[39m in 15ms
+ GET /outstatic/projects [32m200[39m in 13ms
+[?25h

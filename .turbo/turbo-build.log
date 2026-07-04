@@ -1,0 +1,39 @@
+
+
+> outstatic-advanced-blog@ build /Users/andre/Projects/web/outstatic/dev/examples/advanced-blog
+> next build
+
+[1m[38;2;173;127;168m▲ Next.js 16.1.1[39m[22m (Turbopack)
+- Environments: .env.local
+
+[37m[1m [22m[39m Creating an optimized production build ...
+[32m[1m✓[22m[39m Compiled successfully in 6.3s
+[?25l[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m...[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m...[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m.[39m[2K[1G[37m[1m [22m[39m Running TypeScript  [36m..[39m[2K[1G[?25h[?25l[37m[1m [22m[39m Finished TypeScript in 1444.7ms  [36m.[39m[2K[1G[?25h[37m[1m [22m[39m Finished TypeScript in 1444.7ms    [32m[1m✓[22m[39m Finished TypeScript in 1444.7ms 
+[?25l[37m[1m [22m[39m Collecting page data using 15 workers  [36m.[39m[2K[1G[37m[1m [22m[39m Collecting page data using 15 workers  [36m..[39m[2K[1G[37m[1m [22m[39m Collecting page data using 15 workers  [36m...[39m[2K[1G[?25h[33m[1m⚠[22m[39m Using edge runtime on a page currently disables static generation for that page
+[?25l [36m.[39m [2K[1G[?25h[37m[1m [22m[39m Collecting page data using 15 workers in 528.6ms    [32m[1m✓[22m[39m Collecting page data using 15 workers in 528.6ms 
+[?25l[37m[1m [22m[39m Generating static pages using 15 workers (0/13)  [36m[    ][39m[2K[1G[37m[1m [22m[39m Generating static pages using 15 workers (0/13)  [36m[=   ][39m[2K[1G[37m[1m [22m[39m Generating static pages using 15 workers (4/13)  [36m[==  ][39m[2K[1G[37m[1m [22m[39m Generating static pages using 15 workers (10/13)  [36m[=== ][39m[2K[1G[?25h[32m[1m✓[22m[39m Generating static pages using 15 workers (13/13) in 714.1ms
+[?25l[37m[1m [22m[39m Finalizing page optimization  [36m.[39m[2K[1G[?25h[37m[1m [22m[39m Finalizing page optimization in 7.4ms    [32m[1m✓[22m[39m Finalizing page optimization in 7.4ms 
+
+[4mRoute (app)[24m
+┌ ○ /
+├ ○ /_not-found
+├ ● /[...slug]
+│ ├ /about
+│ ├ /projects/outsidesimulator
+│ ├ /projects/outstatic-the-cms-for-nextjs
+│ └ [+3 more paths]
+├ ƒ /api/og
+├ ƒ /api/outstatic/[[...ost]]
+├ ƒ /outstatic/[[...ost]]
+├ ● /posts/[slug]
+│ ├ /posts/add-a-free-cms-to-your-nextjs-website-with-outstatic
+│ ├ /posts/the-next-steps-for-outstatic
+│ └ /posts/welcome-to-outstatic
+└ ○ /robots.txt
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses [36mgenerateStaticParams[39m)
+ƒ  (Dynamic)  server-rendered on demand
+
+[?25h
