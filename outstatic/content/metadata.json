@@ -1,6 +1,6 @@
 {
-  "commit": "646e771b6b6faaa0d7c6660e233377c7b86a4247",
-  "generated": "2026-08-12T14:07:08.737Z",
+  "commit": "3110119a76fce3ae77af539b061a7aa7babba96e",
+  "generated": "2026-08-12T16:43:19.887Z",
   "metadata": [
     {
       "__outstatic": {
@@ -138,8 +138,8 @@
     },
     {
       "__outstatic": {
-        "commit": "646e771b6b6faaa0d7c6660e233377c7b86a4247",
-        "hash": "4118779142",
+        "commit": "3110119a76fce3ae77af539b061a7aa7babba96e",
+        "hash": "4006890831",
         "path": "outstatic/content/financial-report/report-r8-aug.md"
       },
       "author": {
@@ -149,7 +149,7 @@
       "collection": "financial-report",
       "publishedAt": "2026-08-12T14:53:24.055Z",
       "slug": "report-r8-aug",
-      "status": "draft",
+      "status": "published",
       "title": "【R8】8月 収支レポート"
     }
   ]

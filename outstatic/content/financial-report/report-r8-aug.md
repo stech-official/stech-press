@@ -1,7 +1,7 @@
 ---
 title: 【R8】8月 収支レポート
 publishedAt: 2026-08-12T14:53:24.055Z
-status: draft
+status: published
 author:
   name: S-TECH
   picture: https://avatars.githubusercontent.com/u/268148195?v=4
