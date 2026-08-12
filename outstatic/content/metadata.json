@@ -1,6 +1,6 @@
 {
-  "commit": "aa60ce308492435f0138a802ac7c007b4ad80a6b",
-  "generated": "2026-08-12T13:59:22.483Z",
+  "commit": "646e771b6b6faaa0d7c6660e233377c7b86a4247",
+  "generated": "2026-08-12T14:07:08.737Z",
   "metadata": [
     {
       "__outstatic": {
@@ -135,6 +135,22 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "646e771b6b6faaa0d7c6660e233377c7b86a4247",
+        "hash": "4118779142",
+        "path": "outstatic/content/financial-report/report-r8-aug.md"
+      },
+      "author": {
+        "name": "S-TECH",
+        "picture": "https://avatars.githubusercontent.com/u/268148195?v=4"
+      },
+      "collection": "financial-report",
+      "publishedAt": "2026-08-12T14:53:24.055Z",
+      "slug": "report-r8-aug",
+      "status": "draft",
+      "title": "【R8】8月 収支レポート"
     }
   ]
 }
